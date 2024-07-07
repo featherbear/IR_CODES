@@ -1,0 +1,94 @@
+{
+    "Brand": "EKO",
+    "Freq": 38000,
+    "Notes": "",
+    "Type": "TV",
+    "Name": "GTV_RC_AU",
+    "Functions": {
+        "POWER TOGGLE": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBBBCCCBBBCCBBBCCC,22,1527,347,87,22,3692"
+        ],
+        "SETUP": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBCCBBCCCBBBCCBBBC,22,1527,347,87,22,3692"
+        ],
+        "MENU": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBBCBCCBCBCBCBBCBC,22,1527,347,87,22,3692"
+        ],
+        "BACK": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBBBBBCBBBCCCCBCCC,22,1527,347,87,22,3692"
+        ],
+        "OK": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBCBCBCBCBBCBCBCBC,22,1527,347,87,22,3692"
+        ],
+        "UP": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBCBBCCBCBBCCBBCBC,22,1527,347,87,22,3692"
+        ],
+        "DOWN": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBCBBBCBCBBCCCBCBC,22,1527,347,87,22,3692"
+        ],
+        "LEFT": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBBCCBCBCBCBBCBCBC,22,1527,347,87,22,3692"
+        ],
+        "RIGHT": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBBBCBCBBBCCBCBCCC,22,1527,347,87,22,3692"
+        ],
+        "MUTE": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBCCCCCBCBBBBBBCBC,22,1527,347,87,22,3692"
+        ],
+        "VOLUME UP": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBBBBBBBCBCCCCCCBC,22,1527,347,87,22,3692"
+        ],
+        "VOLUME DOWN": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBCBCCCBCBBCBBBCBC,22,1527,347,87,22,3692"
+        ],
+        "CHANNEL UP": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBCCBBBBBBBBCCCCCC,22,1527,347,87,22,3692"
+        ],
+        "CHANNEL DOWN": [
+            0.108,
+            0.108,
+            69,
+            "347,173,22,22BBBB,22,65BCCCCCCBCBCCCCCBBBBBBBBCCC,22,1527,347,87,22,3692"
+        ]
+    },
+    "ID": 23274
+}
